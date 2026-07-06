@@ -12,14 +12,15 @@
         <h1>Biblioteca Digital</h1>
         <p>Gerenciamento de livros</p>
     </header>
-
+    
     <main class="container">
-
+        
         <div class="toolbar">
             <h2>Acervo</h2>
             <a href="/livros/novo" class="btn">
                 Novo Livro
             </a>
+            <a href="/" class="btn-voltar">Voltar</a>
         </div>
         % if len(livros) == 0:
 

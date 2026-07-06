@@ -132,6 +132,20 @@ button,
     padding: 12px 20px;
 }
 
+.btn-voltar {
+    background: #64748b;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: .2s;
+}
+
+.btn-voltar:hover {
+    background: #475569;
+}
+
 button:hover,
 .btn:hover {
     background: var(--primary-dark);

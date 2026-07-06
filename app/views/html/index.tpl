@@ -27,18 +27,14 @@
     </header>
 
     <main class="container">
-
         <section class="card" id="sobre">
-
             <h2>Sobre o Projeto</h2>
-
             <p>
                 Este sistema foi desenvolvido utilizando a arquitetura BMVC.
                 Nesta versão é possível cadastrar, editar, listar e remover livros,
                 demonstrando um CRUD completo utilizando Python, Bottle e armazenamento
                 em arquivo JSON.
             </p>
-
         </section>
 
         <section class="card">
@@ -46,7 +42,6 @@
             <h2>Funcionalidades</h2>
 
             <div class="features">
-
                 <div class="feature">
                     <h3>Cadastro</h3>
                     <p>Adicione novos livros ao acervo.</p>
@@ -61,15 +56,10 @@
                     <h3>Remoção</h3>
                     <p>Exclua livros do sistema quando necessário.</p>
                 </div>
-
             </div>
-
         </section>
-
         <section class="card">
-
             <h2>Tecnologias</h2>
-
             <ul>
                 <li>Python</li>
                 <li>Bottle</li>
@@ -88,7 +78,5 @@
     </footer>
 
     <script src="/static/js/script.js"></script>
-
 </body>
-
 </html>

@@ -9,5 +9,5 @@ class Aplication():
         return content()
 
     def index(self):
-        return template('app/views/index')
+        return template('app/views/html/index')
     
